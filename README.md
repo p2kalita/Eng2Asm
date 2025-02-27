@@ -30,7 +30,7 @@ Ensure you have the following dependencies installed:
 3. Run the application:
    - **For CLI usage:**
      ```sh
-     python transliterator.py "অগ্নি"  # Example Assamese text
+     python app.py "অগ্নি"  # Example Assamese text
      ```
    - **For Web App:**
      ```sh
@@ -42,7 +42,7 @@ Ensure you have the following dependencies installed:
 ### CLI Usage
 Run the script with an Assamese input string:
 ```sh
-python transliterator.py "অগ্নি"
+python app.py "অগ্নি"
 ```
 Output:
 ```
@@ -70,12 +70,6 @@ Output:
   }
   ```
 
-## Contributing
-1. Fork the repository.
-2. Create a feature branch: `git checkout -b feature-xyz`
-3. Commit your changes: `git commit -m "Add feature xyz"`
-4. Push to the branch: `git push origin feature-xyz`
-5. Open a pull request.
 
 ## License
 This project is licensed under the MIT License.
