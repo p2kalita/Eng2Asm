@@ -20,8 +20,8 @@ Ensure you have the following dependencies installed:
 ### Steps
 1. Clone the repository:
    ```sh
-   git clone https://github.com/yourusername/Eng2Asm.git
-   cd assamese-transliterator
+   git clone https://github.com/p2kalita/Eng2Asm.git
+   cd Eng2Asm
    ```
 2. Install dependencies:
    ```sh
